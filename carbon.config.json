@@ -1,0 +1,8 @@
+{
+  "name": "create-splashing",
+  "version": "1.0.0",
+  "author": "Malezja",
+  "minecraftVersion": "1.19.2",
+  "description": "Package that adds create splashing recipes. Requires `KubeJS Create`.",
+  "modloaders": ["forge", "fabric"]
+}
